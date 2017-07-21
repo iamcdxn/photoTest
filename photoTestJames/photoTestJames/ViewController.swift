@@ -13,7 +13,6 @@ class ViewController: UIViewController, UIScrollViewDelegate, UIImagePickerContr
     @IBOutlet var scrollView: UIScrollView!
     @IBOutlet var imageView: UIImageView!
 
-    
     @IBOutlet var PickImageBtn: UIButton!
 
     override func viewDidLoad() {
