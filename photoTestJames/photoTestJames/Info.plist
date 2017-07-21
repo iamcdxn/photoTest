@@ -40,5 +40,7 @@
 	</array>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>照片將用在AppWork School 的考試中ＸＤ！</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
 </dict>
 </plist>
