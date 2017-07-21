@@ -49,6 +49,7 @@
 		6453C94E1F21C1B2001DA698 /* photoTestJamesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = photoTestJamesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6453C9521F21C1B2001DA698 /* photoTestJamesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = photoTestJamesUITests.swift; sourceTree = "<group>"; };
 		6453C9541F21C1B2001DA698 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		645D3C4C1F21C7E70079FCBF /* SF-UI-Text-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Heavy.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 		6453C92E1F21C1B2001DA698 /* photoTestJames */ = {
 			isa = PBXGroup;
 			children = (
+				645D3C4C1F21C7E70079FCBF /* SF-UI-Text-Heavy.otf */,
 				6453C92F1F21C1B2001DA698 /* AppDelegate.swift */,
 				6453C9311F21C1B2001DA698 /* ViewController.swift */,
 				6453C9331F21C1B2001DA698 /* Main.storyboard */,
@@ -512,6 +514,7 @@
 				6453C9591F21C1B2001DA698 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6453C95A1F21C1B2001DA698 /* Build configuration list for PBXNativeTarget "photoTestJamesTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +523,7 @@
 				6453C95C1F21C1B2001DA698 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6453C95D1F21C1B2001DA698 /* Build configuration list for PBXNativeTarget "photoTestJamesUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +532,7 @@
 				6453C95F1F21C1B2001DA698 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
